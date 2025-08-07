@@ -1,0 +1,4 @@
+com\mycompany\librarysystem\InvalidOptionException.class
+com\mycompany\librarysystem\Book.class
+com\mycompany\librarysystem\Library.class
+com\mycompany\librarysystem\LibrarySystem.class
